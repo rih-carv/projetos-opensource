@@ -17,3 +17,4 @@ Lista de repositórios open source focados em desenvolvimento android para contr
 | AndroidVeil | An easy, flexible way to implement veil skeletons and shimmering effect for Android. | skydoves | [Link](https://github.com/skydoves/AndroidVeil) |
 | Baloon | A lightweight popup like tooltips, fully customizable with arrow and animations. | skydoves | [Link](https://github.com/skydoves/Balloon) |
 | Crop Image | Image Cropping Library for Android, optimised for Camera / Gallery. | [canato](https://github.com/Canato) | [Link](https://github.com/CanHub/Android-Image-Cropper) |
+| LiveCallback | LiveCallback is a library project that aims to make dealing with async callbacks on Android safer and straightforward. | [rih-carv](https://github.com/rih-carv) | [Link](https://github.com/rih-carv/LiveCallback) |
